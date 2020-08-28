@@ -1,7 +1,7 @@
 ### Hi there, I'm Tegan - aka [ShadowGaming][website] 👋
 
 [![Website](https://img.shields.io/website?label=Shadowgaming.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shadowgaming.netlify.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Shadowgaming_co?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FShadowgaming_co&screen_name=Shadowgaming_co)
+[![Twitter Follow](https://img.shields.io/instagram/follow/Shadowgaming_co?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FShadowgaming_co&screen_name=Shadowgaming_co)
 
 ## I'm a Husband, Father, Developer, and Teacher!
 
